@@ -1,14 +1,14 @@
-# Yun_jw_RomeroContreras_mc_hw2
+# 
 
-The following project is based on a donut cafe in the peaceful streets of Osaka, Japan. The usermight be able to select our secret and tasty dough as well as choose between one of the topping elections available for spring season, they can choose between sakura or peach icing. 
+The following project is based on a donut cafe in the peaceful streets of Osaka, Japan. The user might be able to select our secret and tasty dough as well as choose between one of the topping selections available for the spring season, they can choose between sakura or peach icing. 
 
-Through OOP JS (Object Oriented Programming) my college and I were able to develop this engaging donut spot where custom classes and instantiate objects were cutomized. This project is responsive from mobile to desktop.
+Through OOP JS (Object Oriented Programming) my colleague and I were able to develop this engaging donut spot where custom classes and instantiate objects were customized. This project is responsive from mobile to desktop.
 
-Having in mind that this is a big project, we use parcel.js with the main purpuse of minify and make efficient the code.
+Having in mind that this is a big project, we use parcel.js with the main purpose of minifying and making the code efficient.
 
 # Credits
 
-Jong Woog Yun
+Jong Woog Yun, 
 Maria Camila Romero Contreras
 
 # License
